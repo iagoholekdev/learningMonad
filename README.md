@@ -1,4 +1,4 @@
-#Monad
+<h2>Monad</h2> <br>
 O conceito matemático de Monad é uma estrutura algébrica que faz parte da teoria das categorias, um ramo da matemática que estuda as relações entre objetos abstratos chamados categorias. Em termos gerais, um Monad é uma tripla (T, η, μ), onde:
 
 T é um functor, que é uma função que mapeia objetos de uma categoria para objetos de outra categoria;
